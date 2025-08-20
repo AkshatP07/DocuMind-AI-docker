@@ -234,12 +234,15 @@ uvicorn main:app --host 0.0.0.0 --port 8080
 
 **FlowChart**
 ---
-pdf management-
+*Pdf Management*-
 <img width="1597" height="809" alt="file_2025-08-20_00 59 11" src="https://github.com/user-attachments/assets/2f544239-af86-4ad1-b2f1-033412aec715" />
-AI powered features-
+*AI Powered Features*-
 <img width="1586" height="810" alt="file_2025-08-20_01 01 16" src="https://github.com/user-attachments/assets/fbffc408-395c-4c64-8d31-796a2fef14eb" />
+*Configuration Sorces*
+<img width="1645" height="600" alt="file_2025-08-20_01 06 15" src="https://github.com/user-attachments/assets/77fbb238-7a72-44fe-8e78-73a7f2c1fef7" />
 
-product images
+
+**Product images**
 <img width="1886" height="1057" alt="image" src="https://github.com/user-attachments/assets/9847d71d-e688-44ad-80e3-0da0cc50faaa" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/452a1213-d0af-41f1-9f8b-5a422282c5c1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03946e48-8d84-40ea-ab65-d0352d3323d2" />
