@@ -9,6 +9,8 @@
 
 **DocuMind AI** is an intelligent document processing platform built for the Adobe India Hackathon. It combines the power of AI-driven document analysis, text extraction, audio synthesis, and semantic search to provide a comprehensive solution for document understanding and interaction.
 
+Want to skip docker image building? - https://github.com/AkshatP07/DocuMind-AI 
+
 ### 🎯 Key Features
 
 - **📄 PDF Processing**: Advanced text extraction and analysis using PyMuPDF and OCR
@@ -238,7 +240,7 @@ uvicorn main:app --host 0.0.0.0 --port 8080
 <img width="1597" height="809" alt="file_2025-08-20_00 59 11" src="https://github.com/user-attachments/assets/2f544239-af86-4ad1-b2f1-033412aec715" />
 *AI Powered Features*-
 <img width="1586" height="810" alt="file_2025-08-20_01 01 16" src="https://github.com/user-attachments/assets/fbffc408-395c-4c64-8d31-796a2fef14eb" />
-*Configuration Sorces*
+*Configuration Sources*
 <img width="1645" height="600" alt="file_2025-08-20_01 06 15" src="https://github.com/user-attachments/assets/77fbb238-7a72-44fe-8e78-73a7f2c1fef7" />
 
 
