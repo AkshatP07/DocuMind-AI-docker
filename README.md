@@ -127,7 +127,9 @@ echo '{
   "api_key": "your-gemini-api-key-here"
 }' > credentials/adbe-gcp.json
 ```
-
+```bash
+adobe key (38c90a9c49bd4c5b8e96702b40b5ca75) is hardcoded inside the component in clinet 
+```
 ### 3️⃣ Build the Docker Image
 
 ```bash
