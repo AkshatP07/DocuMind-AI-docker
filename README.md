@@ -1,4 +1,4 @@
-### DocuMind AI - Adobe India Hackathon Project
+### DocuMind AI
 
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://www.docker.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -7,7 +7,7 @@
 
 ## 🚀 Project Overview
 
-**DocuMind AI** is an intelligent document processing platform built for the Adobe India Hackathon. It combines the power of AI-driven document analysis, text extraction, audio synthesis, and semantic search to provide a comprehensive solution for document understanding and interaction.
+**DocuMind AI** is an intelligent document processing platform. It combines the power of AI-driven document analysis, text extraction, audio synthesis, and semantic search to provide a comprehensive solution for document understanding and interaction.
 
 Want to skip docker image building? - https://github.com/AkshatP07/DocuMind-AI 
 
@@ -317,32 +317,5 @@ Intelligent document processing with AI-powered insights, semantic search, and m
 - **📱 Mobile App**: Native mobile applications
 - **🔄 Batch Processing**: Handle multiple documents simultaneously
 
----
-
-## 🤝 Contributing
-
-This is a hackathon project built for the **Adobe India Hackathon 2025**. 
-
-### Team Information
-- **Project Name**: DocuMind AI
-- **Track**: [Akshat Parashar, Mukul, Gaurav Yadav]
-- **Technology Stack**: React + FastAPI + Docker
-
----
-
-## 📄 License
-
-This project is developed for the Adobe India Hackathon and follows the competition guidelines and terms.
-
----
-
-## 🙏 Acknowledgments
-
-- **Adobe India** for organizing the hackathon
-- **Google AI** for Gemini API access  
-- **Microsoft Azure** for Cognitive Services
-- **Open Source Community** for the amazing tools and libraries
-
----
 
 **🚀 Ready to transform document processing with AI? Let's build the future together!**
